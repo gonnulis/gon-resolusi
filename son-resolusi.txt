@@ -1,0 +1,4 @@
+Halo Pak, salam kenal. saya Airu dari Pondok Aren.
+ini resolusi saya:
+- membuat website menggunakan Django
+- membuar project secara kolaborasi
