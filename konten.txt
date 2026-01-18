@@ -3,9 +3,11 @@ RENCANA KONTEN:
   * Framework Javascript
     ^ Angular
     ^ React
+    ^ Vue
 - PHP Frameworks
   * Codeigniter
   * Laravel 
 - Python
   * DJango
 - Database
+  * PostgreSQL
