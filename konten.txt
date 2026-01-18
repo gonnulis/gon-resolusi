@@ -1,7 +1,8 @@
 RENCANA KONTEN:
 - javascript
+  * Framework Javascript
+    ^ Angular
+    ^ React
 - PHP Frameworks
   * Codeigniter
-  * Laravel 
-- Python
-  * DJango
+  * Laravel
